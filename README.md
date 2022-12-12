@@ -2,6 +2,6 @@
 Final Project Kelompok 8 - Sanbercode Bootcamp Batch 40
 Anggota;
 - Alsa Randisatria
-- Ayu Risqims
+- Ayu Risqi Meieka Sari
 - Basten
 - Wite Kurnia
