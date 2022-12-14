@@ -5,3 +5,4 @@ Anggota;
 - Ayu Risqi Meieka Sari
 - Basten
 - Wite Kurnia
+- Sandro Putra
