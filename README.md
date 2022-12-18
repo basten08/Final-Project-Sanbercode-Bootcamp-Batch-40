@@ -7,5 +7,8 @@ Anggota;
     b. Manual Testing = Search, Reset Data, Add Data User, Edit Data User, Hapus Data User
     c. Automation Testing = Login, Add Data, Hapus Data
 - Basten
+    a. Test case = Modul Time, Directory, Mainteance
+    b. Manual testing = Modul Directory, Maintenance
+    c. Automaton testing = Modul Time
 - Wite Kurnia
 - Sandro
