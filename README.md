@@ -8,3 +8,6 @@ Anggota;
     c. Automation Testing = Login, Add Data, Hapus Data
 - Basten
 - Wite Kurnia
+
+Link untuk test case
+https://docs.google.com/spreadsheets/d/1JQ-gzRr1WmmPodx2ePHt6nmm5cmPCcHM/edit?usp=sharing&ouid=114419191159669993204&rtpof=true&sd=true
