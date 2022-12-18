@@ -11,4 +11,7 @@ Anggota;
     b. Manual testing = Modul Directory, Maintenance
     c. Automaton testing = Modul Time
 - Wite Kurnia
+    a. Test case = Modul Info (update personal details, update contact details, add emergency contact, add dependents, add qualifications)
+    b. Manual testing = Modul Info (update personal details, update contact details, add emergency contact, add dependents, add qualifications)
+    c. Automation testing = Modul Info (update personal details, update contact details, add emergency contact, add dependents, add qualifications)
 - Sandro
